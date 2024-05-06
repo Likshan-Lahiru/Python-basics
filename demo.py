@@ -57,6 +57,12 @@ print(is_young)
 print(type(A))
 
 
+print(A,C,age,type(is_young))#how to print more value in python
+
+
+
+
+
 
 
 
