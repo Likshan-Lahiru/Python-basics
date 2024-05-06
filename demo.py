@@ -88,6 +88,18 @@ print(w)
 #How to get user input python 
 
 
+print("Enter your Name:",end='' )
+
+username = input() 
+
+print("Enter ypu Age:")
+
+userAge = input()
+
+aligibleAge = 18
+
+
+print(username," age is ",userAge)
 
 
 
