@@ -32,7 +32,8 @@ print(z)
 
 print(10**3)
 
-print();
+print(name * 5)#support string 
+
 
 
 
