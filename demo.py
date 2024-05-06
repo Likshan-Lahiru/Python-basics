@@ -60,6 +60,26 @@ print(type(A))
 print(A,C,age,type(is_young))#how to print more value in python
 
 
+l  = 10
+l = l + 5
+
+l += 5
+ 
+
+
+#how to multipale assign value multipale varibales
+
+g = 10
+h = 20
+
+g, h = 10 , 20 
+print(g, h)
+
+
+
+
+
+
 
 
 
