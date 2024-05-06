@@ -44,6 +44,15 @@ l = A + B + str(C)#plus with string value and integer number
 
 print(l)
 
+#comparison operators
+
+age = 50
+
+is_young = age < 50
+
+print(is_young)
+
+
 
 
 
