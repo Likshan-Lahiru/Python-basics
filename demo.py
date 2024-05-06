@@ -34,6 +34,21 @@ print(10**3)
 
 print(name * 5)#support string 
 
+A = "panadura"
+
+B = "City"
+
+C = 12500
+
+l = A + B + str(C)#plus with string value and integer number 
+
+print(l)
+
+
+
+
+
+
 
 
 
