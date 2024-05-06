@@ -72,13 +72,16 @@ l += 5
 g = 10
 h = 20
 
-g, h = 10 , 20 
+g, h = 10 , 20
 print(g, h)
 
 
+#convert data type 
 
-
-
+q = 10
+s = "20"
+w = int(s) + 10
+print(w)
 
 
 
