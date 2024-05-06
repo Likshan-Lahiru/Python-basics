@@ -54,6 +54,8 @@ print(is_young)
 
 
 
+print(type(A))
+
 
 
 
