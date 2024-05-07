@@ -109,8 +109,32 @@ x  = [10, 20 ,30 ,40 ,50]
 
 print(x)
 
+print(x[1])
 
 
+
+
+x[3] = 44
+
+print(x[3])
+
+x.append(60)
+
+print(x)
+
+x.insert(3, 70)
+
+print(x)
+
+
+x.remove(30)
+
+print(x)
+
+x.pop(1)
+
+
+print(x)
 
 
 
