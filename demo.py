@@ -1,4 +1,5 @@
 #how  python print some value on terminal
+'''
 print("Hello world")
 
 
@@ -99,10 +100,14 @@ userAge = input()
 aligibleAge = 18
 
 
-print(username," age is ",userAge)
+print(username," age is ",userAge)'''
 
 
+#data structures in python
 
+x  = [10, 20 ,30 ,40 ,50]
+
+print(x)
 
 
 
