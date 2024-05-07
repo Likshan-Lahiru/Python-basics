@@ -105,13 +105,11 @@ print(username," age is ",userAge)'''
 
 #data structures in python
 
-x  = [10, 20 ,30 ,40 ,50]
+'''x  = [10, 20 ,30 ,40 ,50]
 
 print(x)
 
 print(x[1])
-
-
 
 
 x[3] = 44
@@ -137,5 +135,24 @@ x.pop(1)
 print(x)
 
 
+y = [80, 90 ]
 
+z = x + y
+
+print(z)
+
+print(10 in z)
+
+print(20 in z)'''
+
+
+#python dictionary
+
+x = {'12500': "Panadura",'1000': "Colombo"}
+
+x['1200'] = "Moratuwa"
+
+print(x)
+
+print(x.keys())
 
