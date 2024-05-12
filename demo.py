@@ -178,7 +178,9 @@ print(lahiru[1])'''
 #list slicing
 x = ['a','b','c','d']
 
-y = x[0:3]
+'''y = x[0:3]
 
 print(y)
- 
+ '''
+
+y = x[-1]#access last element
