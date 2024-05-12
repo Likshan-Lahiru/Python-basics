@@ -3,6 +3,7 @@
 print("Hello world")
 
 
+
 #python data types
 print(1234)#int
 print('Hello..')#Strings
@@ -139,6 +140,7 @@ y = [80, 90 ]
 
 z = x + y
 
+
 print(z)
 
 print(10 in z)
@@ -155,4 +157,10 @@ x['1200'] = "Moratuwa"
 print(x)
 
 print(x.keys())
+
+
+
+#python set
+
+y = {"Hello","World","Hello"}
 
