@@ -168,6 +168,7 @@ print(x.keys())'''
 
 
 
+
 #tuple
 
 '''lahiru = ("Paneeth", 176, "Sri lanka")
@@ -183,4 +184,8 @@ x = ['a','b','c','d']
 print(y)
  '''
 
-y = x[-1]#access last element
+'''y = x[-1]#access last element'''
+ 
+#len function
+
+print(len(x))
