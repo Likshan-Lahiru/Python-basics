@@ -148,6 +148,7 @@ print(10 in z)
 print(20 in z)'''
 
 
+
 #python dictionary
 
 x = {'12500': "Panadura",'1000': "Colombo"}
