@@ -160,7 +160,13 @@ print(x.keys())
 
 
 
+
 #python set
 
 y = {"Hello","World","Hello"}
 
+
+#tuple
+
+lahiru = ("Paneeth", 176, "Sri lanka");
+print(lahiru)
