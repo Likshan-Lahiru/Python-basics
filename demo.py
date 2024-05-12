@@ -151,24 +151,34 @@ print(20 in z)'''
 
 #python dictionary
 
-x = {'12500': "Panadura",'1000': "Colombo"}
+'''x = {'12500': "Panadura",'1000': "Colombo"}
 
 x['1200'] = "Moratuwa"
 
 print(x)
 
-print(x.keys())
+print(x.keys())'''
 
 
 
 
 #python set
 
-y = {"Hello","World","Hello"}
+'''y = {"Hello","World","Hello"}'''
 
 
 
 #tuple
 
-lahiru = ("Paneeth", 176, "Sri lanka")
+'''lahiru = ("Paneeth", 176, "Sri lanka")
 print(lahiru)
+ 
+print(lahiru[1])'''
+
+#list slicing
+x = ['a','b','c','d']
+
+y = x[0:3]
+
+print(y)
+ 
