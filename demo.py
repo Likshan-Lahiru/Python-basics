@@ -167,7 +167,8 @@ print(x.keys())
 y = {"Hello","World","Hello"}
 
 
+
 #tuple
 
-lahiru = ("Paneeth", 176, "Sri lanka");
+lahiru = ("Paneeth", 176, "Sri lanka")
 print(lahiru)
