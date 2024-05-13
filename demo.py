@@ -189,3 +189,15 @@ print(y)
 #len function
 
 print(len(x))
+
+#string charcter list
+
+b = "Hello"#list
+
+
+#data stuctures 
+'''list
+set
+dictionary
+tupple
+'''
